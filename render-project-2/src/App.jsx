@@ -4,7 +4,7 @@ function App() {
 	return (
 		<>
 			<div>
-				<p>We are deploying from dist</p>
+				<p>Modifications have been made!!!</p>
 			</div>
 		</>
 	)
